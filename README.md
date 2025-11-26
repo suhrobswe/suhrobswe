@@ -1,23 +1,26 @@
 <h1 align="center">👋 Hi, I'm Suhrob Abdurazzokov — a Software Engineer.</h1>
 
 <p align="center">
-   Full-Stack (NodeJS, ReactJS) Developer
+   🚀 Full-Stack JavaScript Developer (Node.js • React.js)
 </p>
 
 ---
 
 I enjoy building scalable web applications and exploring modern technologies.  
-
+I focus on writing maintainable code, improving architecture, and constantly learning new methodologies.
 
 ---
 
-## 🧰 Languages and Tools
+## 🧰 Tech Stack
 
-
-### Backend
+### 🔥 Backend
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Koa.js-33333D?logo=koajs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fastify-000000?logo=fastify&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.IO-010101?logo=socket.io&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
@@ -25,10 +28,9 @@ I enjoy building scalable web applications and exploring modern technologies.
   <img src="https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=white" />
   <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeORM-FF5733?logo=typeorm&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Socket.IO-010101?logo=socket.io&logoColor=white" />
 </p>
 
+---
 
 ### 🎨 Frontend
 <p>
@@ -46,25 +48,38 @@ I enjoy building scalable web applications and exploring modern technologies.
   <img src="https://img.shields.io/badge/Shadcn--UI-000000?logo=vercel&logoColor=white" />
 </p>
 
+---
 
-### 🛠 Tools
+### ⚙️ Tools & DevOps
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black" />
+  <img src="https://img.shields.io/badge/PM2-2B037A?logo=pm2&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white" />
   <img src="https://img.shields.io/badge/CI/CD-35495E?logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Microservices-6C63FF" />
-  <img src="https://img.shields.io/badge/REST_API-02569B?logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-02569B" />
   <img src="https://img.shields.io/badge/GraphQL-E434AA?logo=graphql&logoColor=white" />
 </p>
 
 ---
 
-## 📞 Contact With Me
+## 📊 GitHub Stats
 
-<p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=suhrob-abdurazzokov&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhrob-abdurazzokov&layout=compact&theme=radical" height="150"/>
+</p>
+
+---
+
+## 📞 Connect With Me
+
+<p align="center">
   <a href="https://t.me/suhrobswe"><img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/suhrob-abdurazzokov-437059376/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
   <a href="mailto:suhrobabdurazzok@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white" /></a>
@@ -72,4 +87,4 @@ I enjoy building scalable web applications and exploring modern technologies.
 
 ---
 
-🚀 Always building, always learning.
+<p align="center">🚀 Always building, always learning.</p>
