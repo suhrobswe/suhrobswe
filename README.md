@@ -14,7 +14,7 @@ My development approach is centered around writing reliable code, improving perf
 
 ## 🧰 Tech Stack
 
-### 🔥 Backend
+### 🛠 Backend
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" />
