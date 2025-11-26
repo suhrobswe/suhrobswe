@@ -1,13 +1,13 @@
-<h1 align="center">Hi there 👋, I'm Suhrob Abdurazzokov</h1>
+<h1 align="center">👋 Hi, I'm Suhrob Abdurazzokov — a Software Engineer.</h1>
 
 <p align="center">
-   Software Engineer | Passionate About Crafting Digital Experiences
+   Full-Stack (NodeJS, ReactJS) Developer
 </p>
 
 ---
 
-I'm a Full-Stack JavaScript developer in the digital world 🌍  
-All my coding projects are in progress while I continue learning the magic of JavaScript ✨
+I enjoy building scalable web applications and exploring modern technologies.  
+
 
 ---
 
@@ -72,4 +72,4 @@ All my coding projects are in progress while I continue learning the magic of Ja
 
 ---
 
-⭐ If you like my work, feel free to give a star to my repositories!
+🚀 Always building, always learning.
