@@ -1,10 +1,42 @@
-Hi there 👋, I'm Suhrob Abdurazzokov
-Software Engineer | Passionate about Crafting Digital Experiences
+<h1 align="center">Hi there 👋, I'm Suhrob Abdurazzokov</h1>
 
-I'm a Full-Stack javaScript developer of the digital world. There are all coding projects are in progress while I learn the magic of JavaScript...
+<p align="center">
+  🚀 Software Engineer | Passionate About Crafting Digital Experiences
+</p>
 
-🧰 Languages and Tools
+---
 
-Backend:
+I'm a Full-Stack JavaScript developer in the digital world 🌍  
+All my coding projects are in progress while I continue learning the magic of JavaScript ✨
 
-Node.js Express.js MongoDB Mongoose MySQL PostgreSQL Sequelize Prisma TypeORM Nest.js Socket.io
+---
+
+## 🧰 Languages & Tools
+
+### 🔧 Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,sequelize,prisma,ts,nestjs,socketio&perline=8" />
+</p>
+
+### 🎨 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,redux,bootstrap,materialui,tailwind&perline=8" />
+</p>
+
+### 🛠 Tools & Technologies
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,npm,postman,swagger,docker,graphql&perline=8" />
+</p>
+
+---
+
+## 📞 Contact
+
+📩 Email: **suhrobabdurazzok@gmail.com**  
+💬 Telegram: **@suhrobswe**
+
+---
+
+⭐️ If you like my work, consider giving a star to my repositories!
+
+
