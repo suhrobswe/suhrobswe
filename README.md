@@ -1,12 +1,13 @@
 <h1 align="center">👋 Hi, I'm Suhrob Abdurazzokov — a Software Engineer.</h1>
 
 <p align="center">
-   🚀 Full-Stack JavaScript Developer (Node.js • React.js)
+   🚀 Full-Stack Developer (Node.js • React.js)
 </p>
 
 ---
 
-I build scalable and maintainable software solutions with a focus on backend engineering, clean architecture, and modern web technologies.  
+I build scalable and maintainable software solutions with a focus on backend engineering, clean architecture, and modern web technologies.
+
 My development approach is centered around writing reliable code, improving performance, and applying best engineering practices.
 
 ---
