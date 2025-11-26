@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Suhrob Abdurazzokov</h1>
 
 <p align="center">
-  🚀 Software Engineer | Passionate About Crafting Digital Experiences
+   Software Engineer | Passionate About Crafting Digital Experiences
 </p>
 
 ---
@@ -11,32 +11,64 @@ All my coding projects are in progress while I continue learning the magic of Ja
 
 ---
 
-## 🧰 Languages & Tools
-
-### 🔧 Backend
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,sequelize,prisma,ts,nestjs,socketio&perline=8" />
-</p>
+## 🧰 Languages and Tools
 
 ### 🎨 Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,redux,bootstrap,materialui,tailwind&perline=8" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Redux_Toolkit-593D88?logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-0EA5E9?logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shadcn--UI-000000?logo=vercel&logoColor=white" />
 </p>
 
-### 🛠 Tools & Technologies
+### 🔧 Backend
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,npm,postman,swagger,docker,graphql&perline=8" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeORM-FF5733?logo=typeorm&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.IO-010101?logo=socket.io&logoColor=white" />
+</p>
+
+
+
+### 🛠 Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI/CD-35495E?logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microservices-6C63FF" />
+  <img src="https://img.shields.io/badge/REST_API-02569B?logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E434AA?logo=graphql&logoColor=white" />
 </p>
 
 ---
 
-## 📞 Contact
+## 📞 Contact With Me
 
-📩 Email: **suhrobabdurazzok@gmail.com**  
-💬 Telegram: **@suhrobswe**
+<p>
+  <a href="https://t.me/suhrobswe"><img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:suhrobabdurazzok@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
-⭐️ If you like my work, consider giving a star to my repositories!
-
-
+⭐ If you like my work, feel free to give a star to my repositories!
