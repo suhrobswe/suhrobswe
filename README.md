@@ -6,8 +6,8 @@
 
 ---
 
-I enjoy building scalable web applications and exploring modern technologies.  
-I focus on writing maintainable code, improving architecture, and constantly learning new methodologies.
+I build scalable and maintainable software solutions with a focus on backend engineering, clean architecture, and modern web technologies.  
+My development approach is centered around writing reliable code, improving performance, and applying best engineering practices.
 
 ---
 
@@ -21,6 +21,7 @@ I focus on writing maintainable code, improving architecture, and constantly lea
   <img src="https://img.shields.io/badge/Fastify-000000?logo=fastify&logoColor=white" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Socket.IO-010101?logo=socket.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
@@ -42,7 +43,7 @@ I focus on writing maintainable code, improving architecture, and constantly lea
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Redux_Toolkit-593D88?logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ant_Design-0170FE?logo=antdesign&logoColor=white" />
   <img src="https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-0EA5E9?logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Shadcn--UI-000000?logo=vercel&logoColor=white" />
@@ -68,12 +69,10 @@ I focus on writing maintainable code, improving architecture, and constantly lea
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suhrob-abdurazzokov&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhrob-abdurazzokov&layout=compact&theme=radical" height="150"/>
-</p>
+## 💡 Soft Skills
+- ✔ Strong problem-solving mindset  
+- ✔ Collaborative team player with effective communication  
+- ✔ Ability to stay calm and productive under pressure  
 
 ---
 
