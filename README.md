@@ -89,4 +89,13 @@ My development approach is centered around writing reliable code, improving perf
 
 <p align="center">🚀 Always building, always learning.</p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=suhrobswe&show_icons=true&theme=tokyonight" height="160" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhrobswe&layout=compact&theme=tokyonight" height="160" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=suhrobswe&theme=tokyonight" height="180" /> </p>
+## 📊 GitHub Stats — 2-profil
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=suhrobdev&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhrobdev&layout=compact&theme=tokyonight" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SuhrobAbdurazzokov&theme=tokyonight" height="180" />
+</p>
