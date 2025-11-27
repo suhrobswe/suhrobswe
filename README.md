@@ -92,8 +92,8 @@ My development approach is centered around writing reliable code, improving perf
 ## 📊 GitHub Stats — 2-profil
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suhrobdev&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhrobdev&layout=compact&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SuhrobAbdurazzokov&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuhrobAbdurazzokov&layout=compact&theme=tokyonight" height="160" />
 </p>
 
 <p align="center">
