@@ -1,5 +1,5 @@
 # Suhrob Abdurazzokov
-**Senior Software Engineer
+**Software Engineer | Tashkent, Uzbekistan**
 
 I specialize in building high-performance, scalable backend systems with a focus on **Clean Architecture** and **SOLID** principles.
 
