@@ -1,95 +1,47 @@
-<h1 align="center">👋 Hi, I'm Suhrob Abdurazzokov — a Software Engineer.</h1>
+# Suhrob Abdurazzokov
+**Senior Software Engineer | Backend Architect**
 
-<p align="center">
-  🚀 Backend Developer (Node.js • TypeScript • JavaScript)
+I specialize in building high-performance, scalable backend systems with a focus on **Clean Architecture** and **SOLID** principles.
+
+---
+
+### 💻 Core Expertise
+
+* **Languages & Runtime:** Node.js, TypeScript, JavaScript (ES6+), Go (Learning)
+* **Frameworks:** NestJS, Express.js, Fastify, Koa.js
+* **Databases:** PostgreSQL, MySQL, MongoDB, Redis
+* **ORM/Query Builders:** Prisma, TypeORM, Sequelize, Mongoose
+* **Communication:** REST, GraphQL, Socket.io, RabbitMQ
+
+### ⚙️ DevOps & Tools
+
+* **Infrastructure:** Docker, Nginx, Linux (Ubuntu), PM2
+* **Security:** SSL (Certbot), JWT, OAuth2
+* **CI/CD & Version Control:** GitHub Actions, Git
+* **Documentation:** Swagger, Postman, Notion
+
+---
+
+### 📐 Engineering Philosophy
+
+* **Clean Code:** Writing readable, maintainable, and testable code.
+* **Architecture:** Hexagonal/Clean Architecture, Microservices.
+* **Principles:** Strict adherence to SOLID, DRY, and KISS.
+* **Performance:** Database optimization and efficient system design.
+
+---
+
+### 📊 GitHub Activity
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhrobswe&layout=compact&theme=dark&hide_border=true&title_color=58a6ff&text_color=adbac7&bg_color=0d1117" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=suhrobswe&show_icons=true&theme=dark&hide_border=true&title_color=58a6ff&text_color=adbac7&bg_color=0d1117&count_private=true" alt="GitHub Stats" height="150" />
 </p>
 
 ---
 
-I build scalable and maintainable software solutions with a strong focus on backend engineering, clean architecture, and API design.
+### 📧 Get in Touch
 
-My development approach is centered around writing reliable code, designing efficient databases, improving system performance, and applying best engineering practices.
+[Telegram](https://t.me/suhrobswe) • [LinkedIn](https://linkedin.com/in/suhrobswe) • [Email](mailto:suhrobabdurazzok@gmail.com) • [Blog](https://t.me/suhrobsweblog)
 
----
-
-## 🧰 Tech Stack
-
-### 🛠 Backend
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Koa.js-33333D?logo=koajs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Fastify-000000?logo=fastify&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Socket.IO-010101?logo=socket.io&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeORM-FF5733?logo=typeorm&logoColor=white" />
-</p>
-
----
-
-### ⚙️ Tools & DevOps
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black" />
-  <img src="https://img.shields.io/badge/PM2-2B037A?logo=pm2&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Certbot-003A70?logo=letsencrypt&logoColor=white" />
-  <img src="https://img.shields.io/badge/SSL-00599C?logoColor=white" />
-  <img src="https://img.shields.io/badge/Resend-000000?logo=resend&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI/CD-35495E?logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microservices-6C63FF" />
-  <img src="https://img.shields.io/badge/REST_API-02569B" />
-  <img src="https://img.shields.io/badge/GraphQL-E434AA?logo=graphql&logoColor=white" />
-</p>
-
----
-
-## 📐 Engineering Principles
-- ✔️ **SOLID** & **DRY** Principles  
-- ✔️ Clean Code & Clean Architecture  
-- ✔️ Scalable System Design  
-- ✔️ Performance Optimization  
-
----
-
-## 💡 Soft Skills
-- ✔️ Strong problem-solving mindset  
-- ✔️ System design and architecture planning  
-- ✔️ Collaborative team player with effective communication  
-- ✔️ Ability to stay calm and productive under pressure  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhrobswe&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=suhrobswe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-</p>
-
----
-
-## 📞 Connect With Me
-
-<p align="center">
-  <a href="https://t.me/suhrobswe"><img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/suhrobswe"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:suhrobswe@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white" /></a>
-</p>
-
----
-
-<p align="center">🚀 Always building, always learning.</p>
+<p align="right"><i>🚀 Building reliable systems, one commit at a time.</i></p>
