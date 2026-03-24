@@ -73,6 +73,15 @@ My development approach is centered around writing reliable code, designing effi
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhrobswe&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=suhrobswe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+</p>
+
+---
+
 ## 📞 Connect With Me
 
 <p align="center">
