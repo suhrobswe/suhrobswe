@@ -7,11 +7,11 @@ I specialize in building high-performance, scalable backend systems with a focus
 
 ### 💻 Tech Stack
 
-* **Languages & Runtime:** Node.js, TypeScript, JavaScript (ES6+), Go (Learning)
+* **Languages & Runtime:** Node.js, TypeScript, JavaScript (ES6+)
 * **Frameworks:** NestJS, Express.js, Fastify, Koa.js
 * **Databases:** PostgreSQL, MySQL, MongoDB, Redis
 * **ORM/Query Builders:** Prisma, TypeORM, Sequelize, Mongoose
-* **Communication:** REST, GraphQL, Socket.io, RabbitMQ
+* **Communication:** REST, GraphQL, Socket.io
 
 ### ⚙️ DevOps & Tools
 
@@ -30,15 +30,12 @@ I specialize in building high-performance, scalable backend systems with a focus
 * **Performance:** Database optimization and efficient system design.
 
 ---
-
 ### 📊 GitHub Activity
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhrobswe&layout=compact&theme=dark&hide_border=true&title_color=58a6ff&text_color=adbac7&bg_color=0d1117" alt="Top Languages" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api?username=suhrobswe&show_icons=true&theme=dark&hide_border=true&title_color=58a6ff&text_color=adbac7&bg_color=0d1117&count_private=true" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=suhrobswe&show_icons=true&theme=dark&hide_border=true&title_color=58a6ff&text_color=adbac7&bg_color=0d1117&count_private=true&hide=prs,issues,contribs" alt="GitHub Stats" height="150" />
 </p>
-
----
 
 ### 📧 Get in Touch
 
