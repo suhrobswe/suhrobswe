@@ -1,11 +1,11 @@
 # Suhrob Abdurazzokov
-**Senior Software Engineer | Backend Architect**
+**Senior Software Engineer
 
 I specialize in building high-performance, scalable backend systems with a focus on **Clean Architecture** and **SOLID** principles.
 
 ---
 
-### 💻 Core Expertise
+### 💻 Tech Stack
 
 * **Languages & Runtime:** Node.js, TypeScript, JavaScript (ES6+), Go (Learning)
 * **Frameworks:** NestJS, Express.js, Fastify, Koa.js
