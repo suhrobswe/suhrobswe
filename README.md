@@ -44,6 +44,11 @@ My development approach is centered around writing reliable code, designing effi
   <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black" />
   <img src="https://img.shields.io/badge/PM2-2B037A?logo=pm2&logoColor=white" />
   <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Certbot-003A70?logo=letsencrypt&logoColor=white" />
+  <img src="https://img.shields.io/badge/SSL-00599C?logoColor=white" />
+  <img src="https://img.shields.io/badge/Resend-000000?logo=resend&logoColor=white" />
   <img src="https://img.shields.io/badge/CI/CD-35495E?logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Microservices-6C63FF" />
   <img src="https://img.shields.io/badge/REST_API-02569B" />
