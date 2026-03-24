@@ -1,7 +1,7 @@
-<h1 align="center">👋 Hi, I'm Suhrob Abdurazzokov — a Backend Engineer.</h1>
+<h1 align="center">👋 Hi, I'm Suhrob Abdurazzokov — a Software Engineer.</h1>
 
 <p align="center">
-  🚀 Backend Engineer (Node.js • TypeScript)
+  🚀 Backend Developer (Node.js • TypeScript • JavaScript)
 </p>
 
 ---
@@ -54,6 +54,14 @@ My development approach is centered around writing reliable code, designing effi
   <img src="https://img.shields.io/badge/REST_API-02569B" />
   <img src="https://img.shields.io/badge/GraphQL-E434AA?logo=graphql&logoColor=white" />
 </p>
+
+---
+
+## 📐 Engineering Principles
+- ✔️ **SOLID** & **DRY** Principles  
+- ✔️ Clean Code & Clean Architecture  
+- ✔️ Scalable System Design  
+- ✔️ Performance Optimization  
 
 ---
 
