@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Suhrob Abdurazzokov — a Backend Engineer.</h1>
 
 <p align="center">
-  🚀 Senior Backend Developer (Node.js • TypeScript)
+  🚀 Backend Engineer (Node.js • TypeScript)
 </p>
 
 ---
