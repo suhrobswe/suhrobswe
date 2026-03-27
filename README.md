@@ -34,11 +34,9 @@ I specialize in building high-performance, scalable backend systems with a focus
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhrobswe&layout=compact&theme=dark&hide_border=true&title_color=58a6ff&text_color=adbac7&bg_color=0d1117" alt="Top Languages" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api?username=suhrobswe&show_icons=true&theme=dark&hide_border=true&title_color=58a6ff&text_color=adbac7&bg_color=0d1117&count_private=true&hide=prs,issues,contribs" alt="GitHub Stats" height="150" />
-</p>
 
 ### 📧 Get in Touch
 
 [Telegram](https://t.me/suhrobswe) • [LinkedIn](https://linkedin.com/in/suhrobswe) • [Email](mailto:suhrobabdurazzok@gmail.com) • [Blog](https://t.me/suhrobsweblog)
 
-<p align="right"><i>🚀 Building reliable systems, one commit at a time.</i></p>
+<p align="right"><i>🚀 Always learning, always building.</i></p>
