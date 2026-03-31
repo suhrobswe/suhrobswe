@@ -1,31 +1,14 @@
 # Hi there, I'm Suhrob 👋
-
 **Software Engineer | Backend Developer** • *Tashkent, Uzbekistan*
 
-I am a Backend Engineer focused on designing, building, and maintaining scalable systems. I strongly advocate for **Clean Architecture**, **SOLID** principles, and writing maintainable code.
+I am a Backend Engineer focused on designing, building, and maintaining scalable systems using **Clean Architecture** and **SOLID** principles.
 
----
+### 💻 Tech Stack & Engineering Focus
 
-### 💻 Tech Stack & Tools
-
-* **Languages & Runtimes:** Node.js, TypeScript, JavaScript
-* **Frameworks:** NestJS, Express, Fastify
-* **Databases:** PostgreSQL, MySQL, MongoDB, Redis
-* **ORMs & Query Builders:** Prisma, TypeORM, Sequelize
-* **APIs & Communication:** REST, GraphQL, Socket.io, Swagger
-* **Security & Auth:** JWT, OAuth2
-* **DevOps & Infrastructure:** Docker, Nginx, Ubuntu, PM2, GitHub Actions
-* **Tools:** Postman
-
----
-
-### 📐 Engineering Focus
-
-* **Architecture:** Clean Architecture, Hexagonal Architecture, Microservices
-* **Principles:** Clean Code, SOLID, DRY, KISS
-* **Goals:** Performance Optimization, Scalable Systems
-
----
+* **Languages & Frameworks:** Node.js, TypeScript, JavaScript • NestJS, Express, Fastify
+* **Databases & ORMs:** PostgreSQL, MySQL, MongoDB, Redis • Prisma, TypeORM, Sequelize
+* **APIs, Security & DevOps:** REST, GraphQL, Socket.io, Swagger • JWT, OAuth2 • Docker, Nginx, PM2, GitHub Actions
+* **Architecture & Principles:** Clean/Hexagonal Architecture, Microservices • SOLID, DRY, KISS, Performance Optimization
 
 ### 📬 Let's Connect
 
