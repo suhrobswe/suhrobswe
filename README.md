@@ -30,10 +30,7 @@ I specialize in building high-performance, scalable backend systems with a focus
 * **Performance:** Database optimization and efficient system design.
 
 ---
-### 📊 GitHub Activity
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhrobswe&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" />  
 ### 📧 Get in Touch
 
 [Telegram](https://t.me/suhrobswe) • [LinkedIn](https://linkedin.com/in/suhrobswe) • [Email](mailto:suhrobabdurazzok@gmail.com) • [Blog](https://t.me/suhrobsweblog)
