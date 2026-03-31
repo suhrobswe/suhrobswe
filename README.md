@@ -1,38 +1,21 @@
 # Suhrob Abdurazzokov
-**Software Engineer | Tashkent, Uzbekistan**
+**Software Engineer • Tashkent, Uzbekistan**
 
-I specialize in building high-performance, scalable backend systems with a focus on **Clean Architecture** and **SOLID** principles.
-
----
-
-### 💻 Tech Stack
-
-* **Languages & Runtime:** Node.js, TypeScript, JavaScript (ES6+)
-* **Frameworks:** NestJS, Express.js, Fastify, Koa.js
-* **Databases:** PostgreSQL, MySQL, MongoDB, Redisa
-* **ORM/Query Builders:** Prisma, TypeORM, Sequelize, Mongoose
-* **Communication:** REST, GraphQL, Socket.io
-
-### ⚙️ DevOps & Tools
-
-* **Infrastructure:** Docker, Nginx, Linux (Ubuntu), PM2
-* **Security:** SSL (Certbot), JWT, OAuth2
-* **CI/CD & Version Control:** GitHub Actions, Git
-* **Documentation:** Swagger, Postman, Notion
+Backend engineer focused on scalable systems using **Clean Architecture** & **SOLID**.
 
 ---
 
-### 📐 Engineering Philosophy
-
-* **Clean Code:** Writing readable, maintainable, and testable code.
-* **Architecture:** Hexagonal/Clean Architecture, Microservices.
-* **Principles:** Strict adherence to SOLID, DRY, and KISS.
-* **Performance:** Database optimization and efficient system design.
+### 💻 Tech & Tools
+**Node.js • TypeScript • JavaScript • NestJS • Express • Fastify • PostgreSQL • MySQL • MongoDB • Redis • Prisma • TypeORM • Sequelize • REST • GraphQL • Socket.io • Docker • Nginx • Ubuntu • PM2 • JWT • OAuth2 • GitHub Actions • Swagger • Postman**
 
 ---
 
-### 📧 Get in Touch
+### 📐 Focus
+**Clean Code • Hexagonal Architecture • Microservices • SOLID • DRY • KISS • Performance Optimization**
 
+---
+
+### 📧 Contact
 [Telegram](https://t.me/suhrobswe) • [LinkedIn](https://linkedin.com/in/suhrobswe) • [Email](mailto:suhrobabdurazzok@gmail.com) • [Blog](https://t.me/suhrobsweblog)
 
-<p align="right"><i>🚀 Always learning, always building.</i></p>
+<p align="right"><i>🚀 Always building.</i></p>
