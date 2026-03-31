@@ -7,8 +7,8 @@ I am a Backend Engineer focused on designing, building, and maintaining scalable
 
 * **Languages & Frameworks:** Node.js, TypeScript, JavaScript • NestJS, Express, Fastify
 * **Databases & ORMs:** PostgreSQL, MySQL, MongoDB, Redis • Prisma, TypeORM, Sequelize
-* **APIs, Security & DevOps:** REST, GraphQL, Socket.io, Swagger • JWT, OAuth2 • Docker, Nginx, PM2, GitHub Actions
-* **Architecture & Principles:** Clean/Hexagonal Architecture, Microservices • SOLID, DRY, KISS, Performance Optimization
+* **APIs, Security & DevOps:** REST, GraphQL, Socket.io, Swagger • JWT, OAuth2 • Docker, Nginx, PM2, CI/CD
+* **Architecture & Principles:** SOLID, DRY, Performance Optimization
 
 ### 📬 Let's Connect
 
